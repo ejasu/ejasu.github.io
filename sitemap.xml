@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-08-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/08/14/notice/</loc>
+    
+    <lastmod>2020-08-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/05/04/%E4%BB%A5%E5%A6%B3%E7%82%BA%E5%90%8D%EF%BC%88%E7%8F%A0%E7%90%86%E5%A5%88%E7%AF%87%EF%BC%89/</loc>
+    
+    <lastmod>2020-08-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/05/13/%E4%BB%A5%E5%A6%B3%E7%82%BA%E5%90%8D%EF%BC%88%E7%8E%B2%E5%A5%88%E7%AF%87%EF%BC%89/</loc>
+    
+    <lastmod>2020-05-13</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite.com/</loc>
+    <lastmod>2020-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
