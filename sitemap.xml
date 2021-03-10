@@ -4,14 +4,14 @@
   <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2021-03-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/14/notice/</loc>
+    <loc>http://yoursite.com/2021/03/10/WDivorce/</loc>
     
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2021-03-10</lastmod>
     
   </url>
   
@@ -32,7 +32,7 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
